@@ -1,2 +1,4 @@
-# kaggle-competitions
-Kaggle competitions notebooks
+# Notebooks from my Kaggle Competitions
+
+## Titanic Competition
+
