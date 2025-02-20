@@ -1,6 +1,6 @@
 # Notebooks from my Kaggle Competitions
 
-## Titanic Competition
+## [1] Titanic Competition
 Stack: pandas, numpy, matplotlib, phik, sklearn, CatBoost
 
 Metrick: Accuracy 0.791
